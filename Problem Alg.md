@@ -42,3 +42,16 @@ Deployment: AWS, Azure, or Google Cloud for hosting and deployment.
 Ethical Considerations
 Ensure data privacy and security, especially if individual vehicle data is used.
 Address any biases in data which might affect model fairness and accuracy.
+
+#Colors
+
+-Day
+// Esri color ramps - Blue 2
+// #fffcd4ff,#b1cdc2ff,#629eb0ff,#38627aff,#0d2644ff
+const colors = ["#fffcd4ff", "#b1cdc2ff", "#629eb0ff", "#38627aff", "#0d2644ff"];
+
+-Night
+
+// Esri color ramps - Blue 14
+// #3a4d6bff,#3d6da2ff,#799a96ff,#ccbe6aff,#ffec99ff
+const colors = ["#3a4d6bff", "#3d6da2ff", "#799a96ff", "#ccbe6aff", "#ffec99ff"];
