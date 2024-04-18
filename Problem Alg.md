@@ -42,4 +42,3 @@ Deployment: AWS, Azure, or Google Cloud for hosting and deployment.
 Ethical Considerations
 Ensure data privacy and security, especially if individual vehicle data is used.
 Address any biases in data which might affect model fairness and accuracy.
- 
